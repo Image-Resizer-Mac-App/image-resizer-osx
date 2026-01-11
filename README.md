@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/image-resizer">  
+<a href="https://tubus-jubus-apps.github.io/.github/image-resizer">  
 <img src="https://img.shields.io/badge/💻_GET_Image_Resizer-blue?style=for-the-badge&logo=apple" alt="GET Image Resizer">  
 </a>  
 </div>
